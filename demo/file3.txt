@@ -1,3 +1,4 @@
 Third file has been created
 
-Modified
+
+Content edited in file3
